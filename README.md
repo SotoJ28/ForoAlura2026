@@ -1,6 +1,6 @@
-**Foro API Alura 2026**
+# **Foro API Alura 2026**
 
-###**Arquitectura del proyecto**
+### **Arquitectura del proyecto**
 
 com.alura.foro
 │
@@ -27,7 +27,7 @@ com.alura.foro
 │
 └── ForoApplication
 
-###**El proyecto implementa buenas prácticas como:**
+### **El proyecto implementa buenas prácticas como:**
 Arquitectura por capas,
 DTOs para intercambio de datos,
 Seguridad con Spring Security,
@@ -37,7 +37,7 @@ Migraciones de base de datos con Flyway,
 Paginación de resultados,
 Borrado lógico de registros.
 
-###**Tecnologías utilizadas:**
+### **Tecnologías utilizadas:**
 Java 17,
 Spring Boot,
 Spring Security,
@@ -48,7 +48,7 @@ Flyway,
 Maven,
 Insomnia / Postman para pruebas.
 
-###**Funcionalidades implementadas:**
+### **Funcionalidades implementadas:**
 Crear tópico,
 Listar tópicos,
 Ver tópico por ID,

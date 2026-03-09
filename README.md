@@ -1,4 +1,4 @@
-#**Foro API Alura 2026**#
+**Foro API Alura 2026**
 
 ###**Arquitectura del proyecto**
 

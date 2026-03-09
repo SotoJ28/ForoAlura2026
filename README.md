@@ -57,3 +57,7 @@ Eliminar tópico (borrado lógico),
 Autenticación JWT,
 Validación de duplicados,
 Paginación.
+
+### **Imagen de las funcionalidades
+<img width="217" height="216" alt="image" src="https://github.com/user-attachments/assets/87bb2f6f-ad78-422f-ab37-23ca21fcea0a" />
+
